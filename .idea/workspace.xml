@@ -9,19 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c902ece1-770e-4e9f-8910-0992111ebb9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/team.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/coffeetime1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/head.jspf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.jspf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-    </list>
+    <list default="true" id="c902ece1-770e-4e9f-8910-0992111ebb9a" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,11 +232,25 @@
       <workItem from="1774175988182" duration="623000" />
       <workItem from="1774179950237" duration="3913000" />
       <workItem from="1774207184303" duration="26000" />
+      <workItem from="1774289844644" duration="333000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1774290125633</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774290125633</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
