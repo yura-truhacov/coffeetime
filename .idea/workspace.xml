@@ -9,7 +9,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c902ece1-770e-4e9f-8910-0992111ebb9a" name="Changes" comment="first commit" />
+    <list default="true" id="c902ece1-770e-4e9f-8910-0992111ebb9a" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_03_2026_20_23_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_03_2026_20_23__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/about.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/about.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/contacts.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/contacts.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime/about.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/coffeetime/about.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/coffeetime/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -232,7 +241,10 @@
       <workItem from="1774175988182" duration="623000" />
       <workItem from="1774179950237" duration="3913000" />
       <workItem from="1774207184303" duration="26000" />
-      <workItem from="1774289844644" duration="333000" />
+      <workItem from="1774289844644" duration="474000" />
+      <workItem from="1774294991454" duration="1216000" />
+      <workItem from="1774377794872" duration="830000" />
+      <workItem from="1775325250864" duration="1675000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -242,7 +254,23 @@
       <option name="project" value="LOCAL" />
       <updated>1774290125633</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1774290279146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774290279146</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1774290292693</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1774290292693</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

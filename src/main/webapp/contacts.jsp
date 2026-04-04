@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="uk">
 <head>
-    <title>CoffeeTime - Контакти</title>
+    <title>CoffeeTime - Контакти</title> в
     <%@ include file="head.jspf" %>
 </head>
 <body>
