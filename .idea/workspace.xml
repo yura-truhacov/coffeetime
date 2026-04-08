@@ -11,6 +11,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c902ece1-770e-4e9f-8910-0992111ebb9a" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/coffeetime/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +242,9 @@
       <workItem from="1774289844644" duration="474000" />
       <workItem from="1774294991454" duration="1216000" />
       <workItem from="1774377794872" duration="830000" />
-      <workItem from="1775325250864" duration="3023000" />
+      <workItem from="1775325250864" duration="4273000" />
+      <workItem from="1775467828088" duration="3290000" />
+      <workItem from="1775496522216" duration="3662000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -274,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775327049969</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1775331741190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775331741190</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

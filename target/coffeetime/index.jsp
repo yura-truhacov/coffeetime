@@ -29,10 +29,10 @@
                 Завітайте до нас за натхненням, спокоєм або просто за своєю улюбленою порцією енергії. Ми створили цей простір для вас, з любов’ю до кожної деталі. 🌿💫</p>
             <h4 style="color: var(--primary);">📅 Повний графік роботи:</h4>
             <ul style="list-style: none; padding: 0; font-size: 0.95rem; line-height: 1.8;">
-                <li>Пн - Чт: 08:00 - 21:00</li>
-                <li>П'ятниця: 08:00 - 22:00</li>
-                <li style="color: #8b5e3c; font-weight: 600;">Субота: 09:00 - 22:00</li>
-                <li style="color: #8b5e3c; font-weight: 600;">Неділя: 09:00 - 21:00</li>
+                <li>Пн - Чт: 07:00 - 23:00</li>
+                <li>П'ятниця: 07:00 - 23:00</li>
+                <li style="color: #8b5e3c; font-weight: 600;">Субота: 08:00 - 22:00</li>
+                <li style="color: #8b5e3c; font-weight: 600;">Неділя: 08:00 - 21:00</li>
             </ul>
         </div>
         <img src="https://images.unsplash.com/photo-1498804103079-a6351b050096?w=500" alt="Кава" style="width:100%; border-radius:15px;" data-aos="zoom-in">
