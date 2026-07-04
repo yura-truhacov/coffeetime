@@ -11,7 +11,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c902ece1-770e-4e9f-8910-0992111ebb9a" name="Changes" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime-1.0/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/coffeetime-1.0/menu.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,19 +106,6 @@
       <recent name="C:\IntelliJ IDEA 2025.2.3\coffeetime\web\web" />
       <recent name="C:\IntelliJ IDEA 2025.2.3\coffeetime\web\web\WEB-INF" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="configurationStatuses">
-      <map>
-        <entry key="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
-          <value>
-            <map>
-              <entry key="Tomcat " value="STOPPED" />
-            </map>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat " type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat " ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="24" nameIsGenerated="true">
@@ -212,7 +201,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
       </set>
     </attachedChunks>
   </component>
@@ -262,7 +250,15 @@
       <workItem from="1777836769359" duration="832000" />
       <workItem from="1778220789360" duration="1195000" />
       <workItem from="1779388776172" duration="298000" />
-      <workItem from="1780939102358" duration="844000" />
+      <workItem from="1780939102358" duration="3664000" />
+      <workItem from="1780944235127" duration="14000" />
+      <workItem from="1781031849834" duration="2946000" />
+      <workItem from="1781118765072" duration="2059000" />
+      <workItem from="1781633714426" duration="2035000" />
+      <workItem from="1781724227243" duration="1170000" />
+      <workItem from="1782065480576" duration="2897000" />
+      <workItem from="1783020041445" duration="3251000" />
+      <workItem from="1783194407394" duration="207000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
