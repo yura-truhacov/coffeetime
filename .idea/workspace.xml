@@ -10,10 +10,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c902ece1-770e-4e9f-8910-0992111ebb9a" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/menu.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/coffeetime-1.0/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/coffeetime-1.0/menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime-1.0/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime-1.0/WEB-INF/lib/checker-qual-3.42.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime-1.0/WEB-INF/lib/postgresql-42.7.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime-1.0/about.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime-1.0/contacts.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime-1.0/head.jspf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime-1.0/header.jspf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime-1.0/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime-1.0/menu.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime-1.0/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime-1.0/team.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/coffeetime/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -308,7 +320,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775668756072</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1783198930785</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1783198930785</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
